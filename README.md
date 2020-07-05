@@ -1,0 +1,1 @@
+# Solving-8-Queen-Problem-by-Genetic-Algorithm
